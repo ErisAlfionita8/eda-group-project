@@ -1,9 +1,5 @@
----
-
-# Analisis Pola Penjualan Supermarket di Myanmar
+# 🛒 Analisis Pola Penjualan Supermarket di Myanmar
 *Pendekatan Korelasi, Time Series, dan Regresi Panel Data*
-
----
 
 ## 👥 Tim Peneliti — Kelompok CIPCUP
 
