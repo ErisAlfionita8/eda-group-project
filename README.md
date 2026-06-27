@@ -3,10 +3,10 @@
 # 🛒 Analisis Pola Penjualan Supermarket di Myanmar
 ### Pendekatan Korelasi, Time Series, dan Regresi Panel Data
 
-> **Mata Kuliah:** SD211123 – Analisis Data Eksploratif
-> **Program Studi:** Sains Data, Fakultas Ilmu Komputer
-> **Universitas:** Universitas Pembangunan Nasional Veteran Jawa Timur
-> **Tahun:** 2025
+**Mata Kuliah:** SD211123 – Analisis Data Eksploratif  
+**Program Studi:** Sains Data, Fakultas Ilmu Komputer  
+**Universitas:** Universitas Pembangunan Nasional Veteran Jawa Timur  
+**Tahun:** 2025
 
 ---
 
