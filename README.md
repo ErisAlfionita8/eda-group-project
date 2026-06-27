@@ -1,19 +1,6 @@
 # 🛒 Analisis Pola Penjualan Supermarket di Myanmar
 *Pendekatan Korelasi, Time Series, dan Regresi Panel Data*
 
-## 👥 Tim Peneliti — Kelompok CIPCUP
-
-| Nama | NPM |
-|------|-----|
-| Olivia Natasya Yuniar | 24083010012 |
-| Zelga Rahma Salsa Aziza | 24083010015 |
-| Lila Fifa Ardani | 24083010025 |
-| Eris Alfionita | 24083010032 |
-
-**Dosen Pengampu:**
-- Shindi Shella May Wara, M.Stat.
-- Amri Muhaimin, S.Stat., M.Stat., M.S.
-
 ---
 
 ## 📌 Deskripsi Proyek
@@ -24,18 +11,6 @@ Analisis dilakukan melalui tiga pendekatan utama:
 1. **Analisis Korelasi** — mengukur kekuatan hubungan antar variabel
 2. **Regresi Data Panel** — mengestimasi pengaruh variabel independen terhadap gross income
 3. **Analisis Deret Waktu (Time Series)** — memodelkan dan meramalkan pola penjualan harian
-
----
-
-## 📁 Struktur Repository
-
-```
-├── EDA_PROJECT_ANALISIS_KORELASI.ipynb        # Analisis korelasi (revisi)
-├── PROJECT_KORELASI.ipynb                     # Analisis korelasi awal
-├── analisis-time-series.ipynb                 # ARIMA, GRU, dan LSTM forecasting
-├── line_product_regresi_data_panel_eda.ipynb  # Regresi data panel
-└── README.md
-```
 
 ---
 
